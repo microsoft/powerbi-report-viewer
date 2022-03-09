@@ -1,14 +1,29 @@
-# Project
+# Project Overview
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+This component(PBI Report viewer) is a wrapper over the existing PowerBiEmbed that adds more features to embedding capability and gives near similar features as of Power Bi Portal.
 
-As the maintainer of this project, please make a few updates:
+Some of the features of the Power Bi report viewer :-
+1. Single place to access all reports
+2. Create personal bookmarks
+3. Add reports to feverates list
+4. Perosnlized theeming 
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+## Demo
+[PBI Report viewer Demo]()
+
+## Clone & Run
+- clone the repository on your local machine.
+- open the project
+- open terminal and change directory to your project path
+- type '***npm install***'
+- after the installation is complete, type '***npm start***'
+
+This starts the project on port 3000 and you are ready to play around with the 
+
+## NPM Install
+    npm i powerbi-report-viewer@1.0.0
+
+## Usage
 
 ## Contributing
 

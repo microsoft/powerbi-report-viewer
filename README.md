@@ -9,7 +9,7 @@ Some of the features of the Power Bi report viewer :-
 4. Perosnlized theeming 
 
 ## Demo
-[PBI Report viewer Demo]()
+[PBI Report viewer Demo](https://pbirptviewerdemo.azurewebsites.net/)
 
 ## Clone & Run
 - clone the repository on your local machine.
@@ -21,7 +21,7 @@ Some of the features of the Power Bi report viewer :-
 This starts the project on port 3000 and you are ready to play around with the 
 
 ## NPM Install
-    npm i powerbi-report-viewer@1.0.0
+    npm i powerbi-report-viewer@1.0.4
 
 ## Usage
 

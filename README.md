@@ -9,7 +9,7 @@ Some of the features of the Power Bi report viewer :-
 
 
 ## Demo
-[PBI Report viewer Demo]()
+[PBI Report viewer Demo](https://pbirptviewerdemo.azurewebsites.net/)
 
 ## Clone & Run
 - clone the repository on your local machine.

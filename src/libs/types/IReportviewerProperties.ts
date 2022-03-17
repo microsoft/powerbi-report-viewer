@@ -7,7 +7,7 @@ export interface IReportviewerProperties {
   EmbedSettings? : IEmbedSettings,
   inItReport? : IReportAttributes,
   inItfavReports? : IReportAttributes[],
-  onReportSelection: any,
+  onReportSelection?: any,
   onBackButtonClick?: any
   onSaveReportPreferences?: any
 }
